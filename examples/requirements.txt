@@ -1,7 +1,7 @@
 # assume torch is already installed
 
 # pycolmap for data parsing
-pycolmap
+pycolmap-cuda12
 # (optional) nerfacc for torch version rasterization 
 # git+https://github.com/nerfstudio-project/nerfacc
 
